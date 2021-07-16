@@ -1,0 +1,3 @@
+#stack using 2 queue ##Done
+#reverse queue   ##Done
+#reverse first k elements  ## pending

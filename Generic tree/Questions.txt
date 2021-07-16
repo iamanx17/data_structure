@@ -1,0 +1,7 @@
+#height
+#leaf node
+#node with maxm child sum
+#structurally identical
+#next larger
+#replace with depth
+#leaf node

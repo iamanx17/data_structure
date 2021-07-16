@@ -1,0 +1,11 @@
+#preorder binary tree  ##done
+#postorder binary tree  ##done
+#replace node with depth  ##done
+#mirror binary tree ##done
+
+#diameter of binary tree #logic not clear
+#construct tree using inorder and preorder #check youtube
+#construct tree using inorder and postorder #check youtube
+#create and insert duplicate node  #doubt
+#level order traversal
+#print nodes at distance k

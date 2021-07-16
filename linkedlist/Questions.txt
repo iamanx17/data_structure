@@ -1,0 +1,8 @@
+Questions pending of linked list yet to solve
+
+
+#delete every n nodes  ##Done
+#swap two node in ll ##Done
+#k reverse  ##Done
+
+#bubble sort ##pending

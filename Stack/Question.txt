@@ -1,0 +1,5 @@
+#reverse stack  ##Done
+#redudant brackets ##Done
+#minm bracket reversal  ##Done
+
+#stock span ##pending
